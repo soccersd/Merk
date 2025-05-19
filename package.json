@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "https-proxy-agent": "^7.0.2",
+    "playwright": "^1.42.1",
+    "socks-proxy-agent": "^8.0.2"
+  }
+}
